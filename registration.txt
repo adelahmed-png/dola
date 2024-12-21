@@ -1,0 +1,9 @@
+Vehicle Type: carSpot Number: 2Reservation Hours: 2Vehicle Type: car
+Spot Number: 3
+Reservation Hours: 1
+Vehicle Type: car
+Spot Number: 1
+Reservation Days: 1
+Vehicle Type: car
+Spot Number: 2
+Reservation Hours: 2
